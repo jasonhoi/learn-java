@@ -1,9 +1,5 @@
 import java.util.*;
 
-enum GridPosition {
-    EMPTY, YELLOW, RED
-}
-
 class Main {
     public static void main(String[] args) {
         Grid grid = new Grid(6, 7);
